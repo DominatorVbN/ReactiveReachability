@@ -1,0 +1,22 @@
+{
+  "name": "ReactiveReachability",
+  "version": "0.1.0",
+  "summary": "A short description of ReactiveReachability.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/DominatorVbN/ReactiveReachability",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DominatorVbN": "amit.samant@engineerbabu.in"
+  },
+  "source": {
+    "git": "https://github.com/DominatorVbN/ReactiveReachability.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ReactiveReachability/Classes/**/*"
+}
