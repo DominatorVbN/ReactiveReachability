@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ReactiveReachability'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'ReactiveReachability provided as a easy way of accesing network status without implementing any notification observers at all.'
 
 # This description is used to generate tags and improve search results.
@@ -25,12 +25,12 @@ ReactiveReachability provides us a abstracted way of checking phones internet st
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'DominatorVbN' => 'amit.samant@engineerbabu.in' }
-  s.source           = { :git => 'https://github.com/DominatorVbN/ReactiveReachability.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/DominatorVbN/ReactiveReachability.git', :tag => '0.1.1' }
   s.social_media_url = 'https://twitter.com/iOS_Dev_Amit'
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'ReactiveReachability'
+  s.source_files = 'ReactiveReachability/*.swift'
   s.swift_versions = '5.0'
   # s.resource_bundles = {
   #   'ReactiveReachability' => ['ReactiveReachability/Assets/*.png']
