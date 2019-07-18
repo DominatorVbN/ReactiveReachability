@@ -30,7 +30,7 @@ ReactiveReachability uses delegate pattern to response network change events to 
 
   s.ios.deployment_target = '11.0'
 
-  s.source_files = 'ReactiveReachability/Classes/*.swift'
+  s.source_files = 'ReactiveReachability/**/*.{swift}'
   s.swift_versions = '5.0'
   # s.resource_bundles = {
   #   'ReactiveReachability' => ['ReactiveReachability/Assets/*.png']
