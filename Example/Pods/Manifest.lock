@@ -1,0 +1,16 @@
+PODS:
+  - ReactiveReachability (0.1.0)
+
+DEPENDENCIES:
+  - ReactiveReachability (from `../`)
+
+EXTERNAL SOURCES:
+  ReactiveReachability:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ReactiveReachability: 29d0a53c88616b91260ea8f321a67cb5c6b3fa30
+
+PODFILE CHECKSUM: 226a80253b7465325c42fd60dab37b77cfa02ea5
+
+COCOAPODS: 1.7.2

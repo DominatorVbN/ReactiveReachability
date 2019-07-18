@@ -1,0 +1,6 @@
+framework module ReactiveReachability {
+  umbrella header "ReactiveReachability-umbrella.h"
+
+  export *
+  module * { export * }
+}
