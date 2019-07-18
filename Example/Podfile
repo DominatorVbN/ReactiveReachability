@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ReactiveReachability_Example' do
+  pod 'ReactiveReachability', :path => '../'
+
+  target 'ReactiveReachability_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
