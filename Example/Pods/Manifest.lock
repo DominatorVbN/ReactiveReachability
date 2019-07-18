@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ReactiveReachability: 29d0a53c88616b91260ea8f321a67cb5c6b3fa30
+  ReactiveReachability: aec99b4af49613ece3eecd4f2b87a8a2a1c0e0a7
 
 PODFILE CHECKSUM: 226a80253b7465325c42fd60dab37b77cfa02ea5
 

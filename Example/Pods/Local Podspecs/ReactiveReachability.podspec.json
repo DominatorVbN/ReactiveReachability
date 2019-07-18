@@ -1,8 +1,8 @@
 {
   "name": "ReactiveReachability",
   "version": "0.1.0",
-  "summary": "A short description of ReactiveReachability.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "ReactiveRechablity enables us to access network status of our device with ease in realtime.",
+  "description": "ReactiveReachability uses delegate pattern to response network change events to observe this events you just have to implement protocol NetworkStatusListener.",
   "homepage": "https://github.com/DominatorVbN/ReactiveReachability",
   "license": {
     "type": "MIT",
@@ -15,8 +15,11 @@
     "git": "https://github.com/DominatorVbN/ReactiveReachability.git",
     "tag": "0.1.0"
   },
+  "social_media_url": "https://twitter.com/iOS_Dev_Amit",
   "platforms": {
-    "ios": "8.0"
+    "ios": "11.0"
   },
-  "source_files": "ReactiveReachability/Classes/**/*"
+  "source_files": "ReactiveReachability/Classes/**/*",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
 }
